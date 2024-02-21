@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "ppp",
+      "class": "jyfyuf",
+      "address": "jgouo8yi",
+      "email": "jhgit",
+      "city": "yfit",
+      "password": "jhi"
+    },
+    {
+      "id": 3,
+      "name": "ss",
+      "class": "",
+      "address": "1233vsyaysv",
+      "email": "ss2gmail.com",
+      "city": "sdwd",
+      "password": "sdsd"
+    },
+    {
+      "id": 4,
+      "name": "radhe",
+      "class": "java",
+      "address": "baner",
+      "email": "radhe@123",
+      "city": "pune",
+      "password": "abcd"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
